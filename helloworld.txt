@@ -1,3 +1,1 @@
-Hello World!
-
-Add your lines below:
+This is a file
