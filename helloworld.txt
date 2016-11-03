@@ -1,14 +1,3 @@
 This is a file
-
-
-<<<<<<< HEAD
+changesss
 Phong was here :D
-
-test
-=======
-sup
-how'sit goin'
-
-Phong was here :D
-
->>>>>>> origin/master
