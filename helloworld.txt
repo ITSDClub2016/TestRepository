@@ -1,13 +1,3 @@
 This is a file
 changesss
 Phong was here :D
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-@
-=======
-
-Phong was here :D
->>>>>>> origin/master
-=======
->>>>>>> origin/master
